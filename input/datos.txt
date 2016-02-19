@@ -1,0 +1,4327 @@
+{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:43:53 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556563,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132249,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 62,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 0,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "statuses_count": 146,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "following": null,
+    "screen_name": "uqiqicewitof",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:54 +0000 2016",
+    "listed_count": 0,
+    "id": 4870236274,
+    "url": null,
+    "name": "Paul Mitchell",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 45,
+    "id_str": "4870236274",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359433191",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694259898528468996,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694259898528468996",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:07 +0000 2016",
+  "text": "Be happy, drink pepsi so sexy \n\nLmao \ud83d\ude02 https://t.co/PiOY6MI2zn",
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 635947217543634944,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "indices": [
+          39,
+          62
+        ],
+        "url": "https://t.co/PiOY6MI2zn",
+        "expanded_url": "https://twitter.com/Louis_Tomlinson/status/635947217543634944",
+        "display_url": "twitter.com/Louis_Tomlinso\u2026"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "lang": "en",
+  "user": {
+    "description": "*Directioner*\nMuzyka, 1D, ksi\u0105\u017cki, Piraci z Karaib\u00f3w i Johny Deep to \u017cycie ok?",
+    "notifications": null,
+    "followers_count": 337,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/691736147681222656/kCS0BHHL_normal.jpg",
+    "statuses_count": 5287,
+    "lang": "pl",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/691736147681222656/kCS0BHHL_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4103989216/1454195528",
+    "screen_name": "LarriesAww",
+    "location": "\u0142\u00f3\u017cko ",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Tue Nov 03 10:34:06 +0000 2015",
+    "listed_count": 2,
+    "id": 4103989216,
+    "url": null,
+    "name": "Heri Bananek/32Days",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 401,
+    "id_str": "4103989216",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 526,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "quoted_status_id_str": "635947217543634944",
+  "quoted_status": {
+    "truncated": false,
+    "created_at": "Mon Aug 24 22:50:06 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "lang": "en",
+    "user": {
+      "description": "1/4 of One Direction :) We would be nowhere without our incredible fans, we owe it all to you.",
+      "notifications": null,
+      "followers_count": 21444433,
+      "profile_link_color": "0084B4",
+      "profile_text_color": "333333",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/605765187996491776/P4oSQMFb_normal.jpg",
+      "statuses_count": 5766,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/605765187996491776/P4oSQMFb_normal.jpg",
+      "following": null,
+      "screen_name": "Louis_Tomlinson",
+      "location": "Doncaster",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": true,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": true,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": true,
+      "is_translator": false,
+      "created_at": "Thu Oct 22 08:58:11 +0000 2009",
+      "listed_count": 106650,
+      "id": 84279963,
+      "url": null,
+      "name": "Louis Tomlinson",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "friends_count": 3653,
+      "id_str": "84279963",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_color": "C0DEED",
+      "favourites_count": 70,
+      "profile_sidebar_fill_color": "DDEEF6"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83c\udfb6 Don't worry \ud83c\udfb6",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 635947217543634944,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 0,
+    "place": null,
+    "coordinates": null,
+    "id_str": "635947217543634944",
+    "retweeted": false
+  },
+  "geo": null,
+  "favorite_count": 0,
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": true,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359447054",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694259956674093061,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694259956674093061",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:30 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          117,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/iYZEjkcQDg",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/iYZEjkcQDg",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ]
+  },
+  "lang": "en",
+  "user": {
+    "description": "Photo Enthusiast, Nature Lover, Rainbow Chaser",
+    "notifications": null,
+    "followers_count": 238,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/439490855200493568/y_8LNYqD_normal.jpeg",
+    "statuses_count": 3334,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/439490855200493568/y_8LNYqD_normal.jpeg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550468065/1398236012",
+    "screen_name": "jvossphoto",
+    "location": "Big Sky Country",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "utc_offset": -25200,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Thu Jun 27 11:50:09 +0000 2013",
+    "listed_count": 2,
+    "id": 1550468065,
+    "url": null,
+    "name": "Jerry Voss",
+    "time_zone": "Mountain Time (US & Canada)",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000051063223/f81318d0d74d36282911766f175c108d.jpeg",
+    "friends_count": 501,
+    "id_str": "1550468065",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000051063223/f81318d0d74d36282911766f175c108d.jpeg",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 145,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "There's some dodgy recipes in @PepsiCo's #SB50 #gamedaygrubmatchentry, but nothing as ugly as @Pepsi's deforestation https://t.co/iYZEjkcQDg",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          30,
+          38
+        ],
+        "id": 21346619,
+        "screen_name": "PepsiCo",
+        "name": "PepsiCo",
+        "id_str": "21346619"
+      },
+      {
+        "indices": [
+          94,
+          100
+        ],
+        "id": 18139619,
+        "screen_name": "pepsi",
+        "name": "Pepsi\u2122",
+        "id_str": "18139619"
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          117,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/iYZEjkcQDg",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/iYZEjkcQDg",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          46
+        ],
+        "text": "SB50"
+      },
+      {
+        "indices": [
+          47,
+          69
+        ],
+        "text": "gamedaygrubmatchentry"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359470829",
+  "in_reply_to_status_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260056393527296,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260056393527296",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:31 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556563,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132249,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 63,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 1,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "statuses_count": 177,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "following": null,
+    "screen_name": "efayuhasowey",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:36 +0000 2016",
+    "listed_count": 1,
+    "id": 4870119027,
+    "url": null,
+    "name": "Mary Carter\u0430",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 44,
+    "id_str": "4870119027",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 4,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359471402",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260058797010944,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260058797010944",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:32 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Mon Feb 01 20:42:23 +0000 2016",
+    "text": "coca #PremioFebreTeenFigueiredo https://t.co/uqpn9hneJq",
+    "in_reply_to_screen_name": null,
+    "quoted_status_id": 694252366577733634,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/uqpn9hneJq",
+          "expanded_url": "https://twitter.com/lokoesdoviber/status/694252366577733634",
+          "display_url": "twitter.com/lokoesdoviber/\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            5,
+            31
+          ],
+          "text": "PremioFebreTeenFigueiredo"
+        }
+      ],
+      "symbols": []
+    },
+    "lang": "es",
+    "user": {
+      "description": "16/08 - 04/09 - 01/11 (follow do chris) - 30/11 \u2764",
+      "notifications": null,
+      "followers_count": 1099,
+      "profile_link_color": "DD2E44",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/688585245088702467/ACKUNRSs_normal.jpg",
+      "statuses_count": 18843,
+      "lang": "pt",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/688585245088702467/ACKUNRSs_normal.jpg",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007092748/1449681678",
+      "screen_name": "favfig",
+      "location": "Rio de Janeiro ",
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -28800,
+      "geo_enabled": true,
+      "default_profile_image": false,
+      "profile_background_tile": true,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sat Jan 31 05:13:27 +0000 2015",
+      "listed_count": 1,
+      "id": 3007092748,
+      "url": null,
+      "name": "dayanne",
+      "time_zone": "Pacific Time (US & Canada)",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673901617939423232/sGt0-PKR.jpg",
+      "friends_count": 78,
+      "id_str": "3007092748",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673901617939423232/sGt0-PKR.jpg",
+      "profile_background_color": "000000",
+      "favourites_count": 150,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id_str": "694252366577733634",
+    "quoted_status": {
+      "truncated": false,
+      "created_at": "Mon Feb 01 20:13:57 +0000 2016",
+      "in_reply_to_screen_name": "lokoesdoviber",
+      "favorite_count": 0,
+      "lang": "in",
+      "user": {
+        "description": "Primeiro grupo aberto de f\u00e3s no viber dedicado ao Youtuber e escritor mais lok\u00e3o desse Brasil. @Christian_fig do canal @canaleuficoloko",
+        "notifications": null,
+        "followers_count": 1004,
+        "profile_link_color": "000011",
+        "profile_text_color": "000000",
+        "contributors_enabled": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668189880149803008/12ylKK6t_normal.jpg",
+        "statuses_count": 3306,
+        "lang": "pt",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668189880149803008/12ylKK6t_normal.jpg",
+        "following": null,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3371358790/1448143890",
+        "screen_name": "lokoesdoviber",
+        "location": null,
+        "profile_sidebar_border_color": "000000",
+        "profile_use_background_image": true,
+        "utc_offset": -28800,
+        "geo_enabled": false,
+        "default_profile_image": false,
+        "profile_background_tile": true,
+        "verified": false,
+        "protected": false,
+        "follow_request_sent": null,
+        "default_profile": false,
+        "is_translator": false,
+        "created_at": "Sat Jul 11 21:01:22 +0000 2015",
+        "listed_count": 0,
+        "id": 3371358790,
+        "url": "http://www.viber.com/lokeselokonasfc",
+        "name": "Lok\u00f5es Do Viber",
+        "time_zone": "Pacific Time (US & Canada)",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619996241464827908/9o92VMhe.jpg",
+        "friends_count": 31,
+        "id_str": "3371358790",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619996241464827908/9o92VMhe.jpg",
+        "profile_background_color": "C0DEED",
+        "favourites_count": 1262,
+        "profile_sidebar_fill_color": "000000"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "Coca ou pepsi? #PremioFebreTeenFigueiredo",
+      "geo": null,
+      "entities": {
+        "user_mentions": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              41
+            ],
+            "text": "PremioFebreTeenFigueiredo"
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "favorited": false,
+      "is_quote_status": false,
+      "in_reply_to_user_id": 3371358790,
+      "in_reply_to_status_id_str": "694250279747895299",
+      "in_reply_to_status_id": 694250279747895299,
+      "filter_level": "low",
+      "id": 694252366577733634,
+      "in_reply_to_user_id_str": "3371358790",
+      "retweet_count": 0,
+      "place": null,
+      "coordinates": null,
+      "id_str": "694252366577733634",
+      "retweeted": false
+    },
+    "geo": null,
+    "favorite_count": 0,
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": true,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 694259523297615872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 1,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "694259523297615872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "es",
+  "user": {
+    "description": "Primeiro grupo aberto de f\u00e3s no viber dedicado ao Youtuber e escritor mais lok\u00e3o desse Brasil. @Christian_fig do canal @canaleuficoloko",
+    "notifications": null,
+    "followers_count": 1004,
+    "profile_link_color": "000011",
+    "profile_text_color": "000000",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/668189880149803008/12ylKK6t_normal.jpg",
+    "statuses_count": 3307,
+    "lang": "pt",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/668189880149803008/12ylKK6t_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3371358790/1448143890",
+    "screen_name": "lokoesdoviber",
+    "location": null,
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "utc_offset": -28800,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": true,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Sat Jul 11 21:01:22 +0000 2015",
+    "listed_count": 0,
+    "id": 3371358790,
+    "url": "http://www.viber.com/lokeselokonasfc",
+    "name": "Lok\u00f5es Do Viber",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619996241464827908/9o92VMhe.jpg",
+    "friends_count": 31,
+    "id_str": "3371358790",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619996241464827908/9o92VMhe.jpg",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 1262,
+    "profile_sidebar_fill_color": "000000"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @favfig: coca #PremioFebreTeenFigueiredo https://t.co/uqpn9hneJq",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          10
+        ],
+        "id": 3007092748,
+        "screen_name": "favfig",
+        "name": "dayanne",
+        "id_str": "3007092748"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          44,
+          67
+        ],
+        "url": "https://t.co/uqpn9hneJq",
+        "expanded_url": "https://twitter.com/lokoesdoviber/status/694252366577733634",
+        "display_url": "twitter.com/lokoesdoviber/\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          43
+        ],
+        "text": "PremioFebreTeenFigueiredo"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": true,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359472830",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260064786518017,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260064786518017",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:44 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sun Jan 31 22:35:55 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 77,
+    "lang": "pt",
+    "user": {
+      "description": "jogando os abusos que sofri com os oned na rodinha",
+      "notifications": null,
+      "followers_count": 5231,
+      "profile_link_color": "2B7BB9",
+      "profile_text_color": "333333",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/692802204529463296/8sAs3Iw6_normal.png",
+      "statuses_count": 355,
+      "lang": "pt",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/692802204529463296/8sAs3Iw6_normal.png",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4855928027/1454001082",
+      "screen_name": "entrevistazayn",
+      "location": null,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_use_background_image": true,
+      "utc_offset": -28800,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": true,
+      "is_translator": false,
+      "created_at": "Thu Jan 28 03:14:52 +0000 2016",
+      "listed_count": 4,
+      "id": 4855928027,
+      "url": null,
+      "name": "entrevista zayn",
+      "time_zone": "Pacific Time (US & Canada)",
+      "profile_background_image_url": "",
+      "friends_count": 32,
+      "id_str": "4855928027",
+      "profile_background_image_url_https": "",
+      "profile_background_color": "F5F8FA",
+      "favourites_count": 381,
+      "profile_sidebar_fill_color": "DDEEF6"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\"zayn qual ser refrigerante favorito?\" coca-cola pq os oned fizeram comercial da pepsi \"mas eles tamb\u00e9m fizeram da coca-cola\" ent\u00e3o \u00e9 dolly",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693925705579679746,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 299,
+    "place": null,
+    "coordinates": null,
+    "id_str": "693925705579679746",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "pt",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 334,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/686765647515250688/3hKZOf4S_normal.jpg",
+    "statuses_count": 6177,
+    "lang": "pt",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/686765647515250688/3hKZOf4S_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3296513155/1449229180",
+    "screen_name": "Gisella_1D",
+    "location": "Itaituba, Par\u00e1",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Jul 27 00:45:02 +0000 2015",
+    "listed_count": 0,
+    "id": 3296513155,
+    "url": null,
+    "name": "FdpsDaMinhaVida",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 456,
+    "id_str": "3296513155",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 733,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @entrevistazayn: \"zayn qual ser refrigerante favorito?\" coca-cola pq os oned fizeram comercial da pepsi \"mas eles tamb\u00e9m fizeram da coca\u2026",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 4855928027,
+        "screen_name": "entrevistazayn",
+        "name": "entrevista zayn",
+        "id_str": "4855928027"
+      }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359484299",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260112890949640,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260112890949640",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:45 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "ru",
+  "user": {
+    "description": "situation normal: all fucked up.",
+    "notifications": null,
+    "followers_count": 58,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/561168358750425088/bUJ0pBYk_normal.png",
+    "statuses_count": 221806,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/561168358750425088/bUJ0pBYk_normal.png",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2997790505/1422627947",
+    "screen_name": "Tardorothytebug",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": true,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Sun Jan 25 13:15:04 +0000 2015",
+    "listed_count": 8,
+    "id": 2997790505,
+    "url": null,
+    "name": "Betty King\u0430",
+    "time_zone": null,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561168448399474689/O0YgN2I4.jpeg",
+    "friends_count": 0,
+    "id_str": "2997790505",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561168448399474689/O0YgN2I4.jpeg",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "text": "RT fetedayy: \u0412 2007 \u0433\u043e\u0434\u0443 \u0432 \u042f\u043f\u043e\u043d\u0438\u0438 \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0432 \u043f\u0440\u043e\u0434\u0430\u0436\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0438\u0438 Pepsi",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359485950",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260119815720961,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260119815720961",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:48 +0000 2016",
+  "in_reply_to_screen_name": "Char_Draesia",
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": "Giant Professional Fat Ass Dragon, that grows exponentially, draws, maths, and random things! Sometimes #NSFW.",
+    "notifications": null,
+    "followers_count": 349,
+    "profile_link_color": "2135B8",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/685950765899362305/ln43GJVH_normal.jpg",
+    "statuses_count": 32138,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/685950765899362305/ln43GJVH_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34523703/1452378417",
+    "screen_name": "Dondaz",
+    "location": "Ontario, Canada",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Thu Apr 23 03:55:22 +0000 2009",
+    "listed_count": 6,
+    "id": 34523703,
+    "url": "http://www.furaffinity.net/user/dondaz/",
+    "name": "Dondaz",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/611997560073424896/PJhF6Pyr.jpg",
+    "friends_count": 256,
+    "id_str": "34523703",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/611997560073424896/PJhF6Pyr.jpg",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 13572,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "@Char_Draesia @VulcanDragon108 This is cannon! *Stuffs you with pepsi galore*",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "id": 46585018,
+        "screen_name": "Char_Draesia",
+        "name": "Char",
+        "id_str": "46585018"
+      },
+      {
+        "indices": [
+          14,
+          30
+        ],
+        "id": 2777269038,
+        "screen_name": "VulcanDragon108",
+        "name": "Vulcan Draesia",
+        "id_str": "2777269038"
+      }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": 46585018,
+  "timestamp_ms": "1454359488981",
+  "in_reply_to_status_id_str": "694259573398458368",
+  "in_reply_to_status_id": 694259573398458368,
+  "filter_level": "low",
+  "id": 694260132528521217,
+  "in_reply_to_user_id_str": "46585018",
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260132528521217",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:50 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132249,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 64,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 1,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "statuses_count": 164,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "following": null,
+    "screen_name": "udarucarosaj",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:37 +0000 2016",
+    "listed_count": 2,
+    "id": 4870172615,
+    "url": null,
+    "name": "Jennifer Gonzalez\u0430",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 46,
+    "id_str": "4870172615",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359490292",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260138027384832,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260138027384832",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:50 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "es",
+  "user": {
+    "description": "Boca Juniors|27/12|\u2022Loris Karius\u2022|\u2022Stephen Curry\u2022",
+    "notifications": null,
+    "followers_count": 989,
+    "profile_link_color": "09F024",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/625853500090642433/gmaDKGTQ_normal.jpg",
+    "statuses_count": 16835,
+    "lang": "es",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/625853500090642433/gmaDKGTQ_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/430909665/1437451256",
+    "screen_name": "GioOk_",
+    "location": "Argentina",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": true,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Wed Dec 07 18:09:09 +0000 2011",
+    "listed_count": 3,
+    "id": 430909665,
+    "url": null,
+    "name": "Giovanni.",
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000066841345/5109f4eea5d06c5f8c84d6864f83f655.jpeg",
+    "friends_count": 1886,
+    "id_str": "430909665",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000066841345/5109f4eea5d06c5f8c84d6864f83f655.jpeg",
+    "profile_background_color": "1912E3",
+    "favourites_count": 4083,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Mi t\u00edo le puso pepsi al fernet, por favor matenlo",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359490806",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260140183257088,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260140183257088",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:58 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132250,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 65,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 0,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "statuses_count": 225,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "following": null,
+    "screen_name": "ocah_ojefuzeq19",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:26 +0000 2016",
+    "listed_count": 0,
+    "id": 4870118247,
+    "url": null,
+    "name": "Charles Thomas",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 45,
+    "id_str": "4870118247",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359498118",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260170852024320,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260170852024320",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:44:58 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "es",
+  "user": {
+    "description": "En esta cuenta se habla generalmente de: Bar\u00e7a, f\u00fatbol, #CuartoMilenio, manga, anime y m\u00fasica electr\u00f3nica.",
+    "notifications": null,
+    "followers_count": 135,
+    "profile_link_color": "3B94D9",
+    "profile_text_color": "F0A330",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/687006926144692225/a3WtjOyW_normal.png",
+    "statuses_count": 54406,
+    "lang": "en-gb",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/687006926144692225/a3WtjOyW_normal.png",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/182022523/1413797831",
+    "screen_name": "haunt3_",
+    "location": "Al lao de barna city",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "utc_offset": 3600,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Mon Aug 23 16:58:42 +0000 2010",
+    "listed_count": 11,
+    "id": 182022523,
+    "url": null,
+    "name": "haunt3",
+    "time_zone": "Paris",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474325669103407104/1j-5ZjMI.jpeg",
+    "friends_count": 318,
+    "id_str": "182022523",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474325669103407104/1j-5ZjMI.jpeg",
+    "profile_background_color": "0A76B9",
+    "favourites_count": 108,
+    "profile_sidebar_fill_color": "0E7FF8"
+  },
+  "source": "<a href=\"http://twittnuker.org\" rel=\"nofollow\">Twittnuker</a>",
+  "text": "Pepsi Bar\u00e7a, al tiempo.",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359498954",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260174358499328,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260174358499328",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:00 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "ja",
+  "user": {
+    "description": "\u672c\u5bb6\u30a4\u30ca\u30ba\u30de\u30a4\u30ec\u30d6\u30f3\u3068\u306f\u95a2\u4fc2\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002\u975e\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\n\u305f\u307e\u306b\u3001\u7ba1\u7406\u8005\u304c\u3001\u545f\u304f\u3068\u304d\u3042\u308a\u3002\n\n\u899a\u3048\u3055\u305b\u305f\u3044\u8a00\u8449\u304c\u6709\u308c\u3070\u3001DM\u306b\u9001\u3063\u3066\u304f\u308c\u3088\u3002\n\u5be9\u67fb\u3057\u3066\u3001\u767b\u9332\u3059\u308b\u304b\u3089\u3088\u3002\n\u30d5\u30a9\u30ed\u30fc\u306f\u81ea\u52d5\u3002\n\u203b\u8a00\u8449\u4ee5\u5916\u306f\u524a\u9664\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+    "notifications": null,
+    "followers_count": 1324,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156259917/icon2_normal.gif",
+    "statuses_count": 66071,
+    "lang": "ja",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1156259917/icon2_normal.gif",
+    "following": null,
+    "screen_name": "ff_inazuma",
+    "location": "iphone:34.641545,135.511561",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Sun Sep 19 07:17:01 +0000 2010",
+    "listed_count": 2,
+    "id": 192472233,
+    "url": null,
+    "name": "FOOTBOOLLFRONTIER",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 1949,
+    "id_str": "192472233",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 3,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "text": "pepsi\u98f2\u3093\u3067\u3044\u308b\u306a\u3046\u3002\npepsi\u3046\u307e\u3046\u307e\u3067\u3042\u308a\u307e\u3059\uff01(\uff40\u2207\u00b4\u309e\uff8b\uff9e\uff7c\uff6f\u00a0 ##inazuma_bot",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          53
+        ],
+        "text": "inazuma_bot"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359500953",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260182742794240,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260182742794240",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:11 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "ru",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 45,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574415937/ff3634da9940a59f627e161e59ba706f_normal.jpeg",
+    "statuses_count": 225553,
+    "lang": "id",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3574415937/ff3634da9940a59f627e161e59ba706f_normal.jpeg",
+    "following": null,
+    "screen_name": "ZacharyGrantha2",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Fri Mar 08 10:11:37 +0000 2013",
+    "listed_count": 8,
+    "id": 1251336169,
+    "url": null,
+    "name": "ZacharyGrantham",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 12,
+    "id_str": "1251336169",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "text": "RT fetedayy: \u0412 2007 \u0433\u043e\u0434\u0443 \u0432 \u042f\u043f\u043e\u043d\u0438\u0438 \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0432 \u043f\u0440\u043e\u0434\u0430\u0436\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0438\u0438 Pepsi",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359511310",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260226183315457,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260226183315457",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:18 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": "Independently owned branding and design agency based in Atlanta, GA",
+    "notifications": null,
+    "followers_count": 11,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "statuses_count": 820,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "following": null,
+    "screen_name": "dualdeko",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": -14400,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Sep 24 21:03:41 +0000 2012",
+    "listed_count": 34,
+    "id": 844304948,
+    "url": null,
+    "name": "dualdeko",
+    "time_zone": "Atlantic Time (Canada)",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 11,
+    "id_str": "844304948",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://socialserver.net\" rel=\"nofollow\">SocialMediaServer</a>",
+  "text": "#DidYouKnow that the Pepsi logo cost $1 million US to get designed?",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "text": "DidYouKnow"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359518884",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260257950932993,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260257950932993",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:24 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132251,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 66,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 1,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+    "statuses_count": 175,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+    "following": null,
+    "screen_name": "ukup_orizihiw",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:33 +0000 2016",
+    "listed_count": 1,
+    "id": 4870172429,
+    "url": null,
+    "name": "Jeff Hernandez",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 46,
+    "id_str": "4870172429",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359524944",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260283368476672,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260283368476672",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:27 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39912,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132251,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 67,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 1,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+    "statuses_count": 159,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+    "following": null,
+    "screen_name": "ofat_uculebuj61",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:52 +0000 2016",
+    "listed_count": 1,
+    "id": 4870172645,
+    "url": null,
+    "name": "Mark Davis",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 45,
+    "id_str": "4870172645",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 4,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359527912",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260295817101312,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260295817101312",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:30 +0000 2016",
+  "text": ".@morninggloria Trump and Palin = Crystal Pepsi https://t.co/Tgi4v1cnJb",
+  "in_reply_to_screen_name": "morninggloria",
+  "quoted_status_id": 694251020906471424,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          1,
+          15
+        ],
+        "id": 25375836,
+        "screen_name": "morninggloria",
+        "name": "Erin Gloria Ryan",
+        "id_str": "25375836"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          48,
+          71
+        ],
+        "url": "https://t.co/Tgi4v1cnJb",
+        "expanded_url": "https://twitter.com/SchreckReports/status/694251020906471424",
+        "display_url": "twitter.com/SchreckReports\u2026"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 39,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3386057116/04ab27223f1b46618c0f78ddc00e9efa_normal.jpeg",
+    "statuses_count": 1776,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3386057116/04ab27223f1b46618c0f78ddc00e9efa_normal.jpeg",
+    "following": null,
+    "screen_name": "Tobin_Maker",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": -36000,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Fri Apr 24 00:01:04 +0000 2009",
+    "listed_count": 5,
+    "id": 34778283,
+    "url": null,
+    "name": "Soylent_Green_1973",
+    "time_zone": "Hawaii",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 45,
+    "id_str": "34778283",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 99,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "quoted_status_id_str": "694251020906471424",
+  "quoted_status": {
+    "truncated": false,
+    "created_at": "Mon Feb 01 20:08:36 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "lang": "en",
+    "user": {
+      "description": "Reporting @politico. ''Reading you is like playing three dimensional hopscotch; impossible.'' -A fan",
+      "notifications": null,
+      "followers_count": 1997,
+      "profile_link_color": "B30000",
+      "profile_text_color": "333333",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/518933603481157633/mhpvTo4H_normal.png",
+      "statuses_count": 3209,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/518933603481157633/mhpvTo4H_normal.png",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/951915308/1412560889",
+      "screen_name": "SchreckReports",
+      "location": "Washington, DC",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": true,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Fri Nov 16 15:46:39 +0000 2012",
+      "listed_count": 90,
+      "id": 951915308,
+      "url": "http://benschreckinger.com",
+      "name": "Ben Schreckinger",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "friends_count": 883,
+      "id_str": "951915308",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_color": "C0DEED",
+      "favourites_count": 1472,
+      "profile_sidebar_fill_color": "DDEEF6"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Sarah Palin offers a new Trump campaign rallying cry in Cedar Rapids, Iowa: \u201cWe\u2019re clear, we\u2019re here, get used to it!\u201d",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 694251020906471424,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 0,
+    "place": null,
+    "coordinates": null,
+    "id_str": "694251020906471424",
+    "retweeted": false
+  },
+  "geo": null,
+  "favorite_count": 0,
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": true,
+  "in_reply_to_user_id": 25375836,
+  "timestamp_ms": "1454359530377",
+  "in_reply_to_status_id_str": "694255812466839553",
+  "in_reply_to_status_id": 694255812466839553,
+  "filter_level": "low",
+  "id": 694260306155958272,
+  "in_reply_to_user_id_str": "25375836",
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260306155958272",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:44 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          117,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/L6WNZ1UkDz",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/L6WNZ1UkDz",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ]
+  },
+  "lang": "en",
+  "user": {
+    "description": "Ed., Rosa Luxemburg: Her Life and Legacy (Palgrave 2013). Author, Neoliberal Labour Governments and the Union Response (Palgrave 2015). Coeditor @NewPoliticsMag",
+    "notifications": null,
+    "followers_count": 860,
+    "profile_link_color": "DD2E44",
+    "profile_text_color": "000000",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/625336257359560704/fmc1psIE_normal.jpg",
+    "statuses_count": 23172,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/625336257359560704/fmc1psIE_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681909914/1397715702",
+    "screen_name": "PartyOfANewType",
+    "location": "New York, NY",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "utc_offset": -18000,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Mon Aug 19 00:22:13 +0000 2013",
+    "listed_count": 40,
+    "id": 1681909914,
+    "url": "http://www.newpol.org",
+    "name": "Jason Schulman",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "friends_count": 383,
+    "id_str": "1681909914",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "000000",
+    "favourites_count": 5019,
+    "profile_sidebar_fill_color": "000000"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "There's some dodgy recipes in @PepsiCo's #SB50 #gamedaygrubmatchentry, but nothing as ugly as @Pepsi's deforestation https://t.co/L6WNZ1UkDz",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          30,
+          38
+        ],
+        "id": 21346619,
+        "screen_name": "PepsiCo",
+        "name": "PepsiCo",
+        "id_str": "21346619"
+      },
+      {
+        "indices": [
+          94,
+          100
+        ],
+        "id": 18139619,
+        "screen_name": "pepsi",
+        "name": "Pepsi\u2122",
+        "id_str": "18139619"
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          117,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/L6WNZ1UkDz",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/L6WNZ1UkDz",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          46
+        ],
+        "text": "SB50"
+      },
+      {
+        "indices": [
+          47,
+          69
+        ],
+        "text": "gamedaygrubmatchentry"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359544477",
+  "in_reply_to_status_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260365295796224,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260365295796224",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:45:51 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39915,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132251,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 68,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 0,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "statuses_count": 152,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+    "following": null,
+    "screen_name": "ufuxijudized",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:55 +0000 2016",
+    "listed_count": 1,
+    "id": 4870120935,
+    "url": null,
+    "name": "Deborah Jackson\u0430",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 47,
+    "id_str": "4870120935",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 3,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359551008",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260392688799745,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260392688799745",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:01 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Mon Feb 01 18:53:31 +0000 2016",
+    "in_reply_to_screen_name": "J_Krecidlo",
+    "favorite_count": 4,
+    "lang": "pl",
+    "user": {
+      "description": "Jedyn\u0105 wad\u0105 brunetek jest to, \u017ce nie s\u0105 blondynkami | @przeglad | Cul\u00e9",
+      "notifications": null,
+      "followers_count": 5862,
+      "profile_link_color": "0084B4",
+      "profile_text_color": "333333",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/641952530184970240/MuhTneY3_normal.jpg",
+      "statuses_count": 27402,
+      "lang": "en-gb",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/641952530184970240/MuhTneY3_normal.jpg",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620925321/1401618934",
+      "screen_name": "J_Krecidlo",
+      "location": "Warszawa",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_use_background_image": true,
+      "utc_offset": 3600,
+      "geo_enabled": true,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": true,
+      "is_translator": false,
+      "created_at": "Thu Jun 28 09:58:38 +0000 2012",
+      "listed_count": 45,
+      "id": 620925321,
+      "url": null,
+      "name": "Jakub Kr\u0119cid\u0142o",
+      "time_zone": "Warsaw",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "friends_count": 601,
+      "id_str": "620925321",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_color": "C0DEED",
+      "favourites_count": 16352,
+      "profile_sidebar_fill_color": "DDEEF6"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Dziennikarze Catalunya Radio nie\u015bmia\u0142o sugeruj\u0105, \u017ce mo\u017ce chodzi\u0107 o Pepsi",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": 620925321,
+    "in_reply_to_status_id_str": "694228302148562944",
+    "in_reply_to_status_id": 694228302148562944,
+    "filter_level": "low",
+    "id": 694232126091300864,
+    "in_reply_to_user_id_str": "620925321",
+    "retweet_count": 1,
+    "place": null,
+    "coordinates": null,
+    "id_str": "694232126091300864",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "pl",
+  "user": {
+    "description": "DumaKatalonii.pl - polski serwis kibic\u00f3w FC Barcelona. \r\nVisca el Bar\u00e7a i visca Catalunya!",
+    "notifications": null,
+    "followers_count": 2743,
+    "profile_link_color": "8F0000",
+    "profile_text_color": "C2C2C2",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2612943012/jvhgkv1qs6tod9kw8xfr_normal.jpeg",
+    "statuses_count": 33511,
+    "lang": "pl",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2612943012/jvhgkv1qs6tod9kw8xfr_normal.jpeg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/237441274/1396965511",
+    "screen_name": "DumaKataloniiPL",
+    "location": "Polska",
+    "profile_sidebar_border_color": "DCBD0B",
+    "profile_use_background_image": false,
+    "utc_offset": 3600,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Wed Jan 12 21:15:52 +0000 2011",
+    "listed_count": 22,
+    "id": 237441274,
+    "url": "http://DumaKatalonii.pl",
+    "name": "Duma Katalonii",
+    "time_zone": "Warsaw",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 614,
+    "id_str": "237441274",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "144E95",
+    "favourites_count": 84,
+    "profile_sidebar_fill_color": "8D0142"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+  "text": "RT @J_Krecidlo: Dziennikarze Catalunya Radio nie\u015bmia\u0142o sugeruj\u0105, \u017ce mo\u017ce chodzi\u0107 o Pepsi",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          14
+        ],
+        "id": 620925321,
+        "screen_name": "J_Krecidlo",
+        "name": "Jakub Kr\u0119cid\u0142o",
+        "id_str": "620925321"
+      }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359561168",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260435302875136,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260435302875136",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:08 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": "Work Live Play: Sustainably",
+    "notifications": null,
+    "followers_count": 332,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/489461642669748225/6-TdMXB3_normal.jpeg",
+    "statuses_count": 48994,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/489461642669748225/6-TdMXB3_normal.jpeg",
+    "following": null,
+    "screen_name": "SustainATL",
+    "location": "Atlanta, GA",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Thu Oct 03 18:20:35 +0000 2013",
+    "listed_count": 77,
+    "id": 1931583210,
+    "url": "http://about.me/thaijones2",
+    "name": "Tiffany Jones",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 171,
+    "id_str": "1931583210",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "text": "Pepsi gets into nightlife business with Kola House for drinks, food, entertainment https://t.co/UsuJM43GAs",
+  "geo": null,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "indices": [
+          83,
+          106
+        ],
+        "url": "https://t.co/UsuJM43GAs",
+        "expanded_url": "http://ow.ly/3aOYQO",
+        "display_url": "ow.ly/3aOYQO"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359568773",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260467200462849,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260467200462849",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:24 +0000 2016",
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": "I Love to read  And go thrifting for bargains",
+    "notifications": null,
+    "followers_count": 526,
+    "profile_link_color": "4A913C",
+    "profile_text_color": "000000",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600729954876194816/L-pCo6uY_normal.jpg",
+    "statuses_count": 8121,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/600729954876194816/L-pCo6uY_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3163032038/1432060088",
+    "screen_name": "vittles62",
+    "location": "Claxton, GA",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "utc_offset": null,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Sat Apr 18 22:18:04 +0000 2015",
+    "listed_count": 11,
+    "id": 3163032038,
+    "url": null,
+    "name": "Dorothy Morris",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 915,
+    "id_str": "3163032038",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "favourites_count": 115,
+    "profile_sidebar_fill_color": "000000"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Check out  All 4 One-One 4 All Colorful Pepsi 16 oz. Unopened Metal Bottles From 2008  https://t.co/bXa39sfMWF via @eBay",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          115,
+          120
+        ],
+        "id": 19709040,
+        "screen_name": "eBay",
+        "name": "eBay",
+        "id_str": "19709040"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          87,
+          110
+        ],
+        "url": "https://t.co/bXa39sfMWF",
+        "expanded_url": "http://www.ebay.com/itm/All-4-One-One-4-All-Colorful-Pepsi-16-oz-Unopened-Metal-Bottles-From-2008-/201515600741?roken=cUgayN&soutkn=hnmg0W",
+        "display_url": "ebay.com/itm/All-4-One-\u2026"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359584039",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260531230683137,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260531230683137",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:26 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Mon Feb 01 18:53:31 +0000 2016",
+    "in_reply_to_screen_name": "J_Krecidlo",
+    "favorite_count": 4,
+    "lang": "pl",
+    "user": {
+      "description": "Jedyn\u0105 wad\u0105 brunetek jest to, \u017ce nie s\u0105 blondynkami | @przeglad | Cul\u00e9",
+      "notifications": null,
+      "followers_count": 5862,
+      "profile_link_color": "0084B4",
+      "profile_text_color": "333333",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/641952530184970240/MuhTneY3_normal.jpg",
+      "statuses_count": 27402,
+      "lang": "en-gb",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/641952530184970240/MuhTneY3_normal.jpg",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620925321/1401618934",
+      "screen_name": "J_Krecidlo",
+      "location": "Warszawa",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_use_background_image": true,
+      "utc_offset": 3600,
+      "geo_enabled": true,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": true,
+      "is_translator": false,
+      "created_at": "Thu Jun 28 09:58:38 +0000 2012",
+      "listed_count": 45,
+      "id": 620925321,
+      "url": null,
+      "name": "Jakub Kr\u0119cid\u0142o",
+      "time_zone": "Warsaw",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "friends_count": 601,
+      "id_str": "620925321",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_color": "C0DEED",
+      "favourites_count": 16352,
+      "profile_sidebar_fill_color": "DDEEF6"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Dziennikarze Catalunya Radio nie\u015bmia\u0142o sugeruj\u0105, \u017ce mo\u017ce chodzi\u0107 o Pepsi",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": 620925321,
+    "in_reply_to_status_id_str": "694228302148562944",
+    "in_reply_to_status_id": 694228302148562944,
+    "filter_level": "low",
+    "id": 694232126091300864,
+    "in_reply_to_user_id_str": "620925321",
+    "retweet_count": 2,
+    "place": null,
+    "coordinates": null,
+    "id_str": "694232126091300864",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "pl",
+  "user": {
+    "description": "who cares how you haterz feel?\u2693 phuck yo",
+    "notifications": null,
+    "followers_count": 2838,
+    "profile_link_color": "000000",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/692713011195305985/y0sDS-cn_normal.jpg",
+    "statuses_count": 256104,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/692713011195305985/y0sDS-cn_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158306674/1409759357",
+    "screen_name": "D10SRIH",
+    "location": "estadio camp nou",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "utc_offset": 3600,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Thu Feb 07 21:22:08 +0000 2013",
+    "listed_count": 49,
+    "id": 1158306674,
+    "url": "http://rihannanow.com",
+    "name": "K",
+    "time_zone": "Amsterdam",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452185792358543360/BzpRmE6X.png",
+    "friends_count": 334,
+    "id_str": "1158306674",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452185792358543360/BzpRmE6X.png",
+    "profile_background_color": "FFFFFF",
+    "favourites_count": 18817,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @J_Krecidlo: Dziennikarze Catalunya Radio nie\u015bmia\u0142o sugeruj\u0105, \u017ce mo\u017ce chodzi\u0107 o Pepsi",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          14
+        ],
+        "id": 620925321,
+        "screen_name": "J_Krecidlo",
+        "name": "Jakub Kr\u0119cid\u0142o",
+        "id_str": "620925321"
+      }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359586329",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260540835786752,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260540835786752",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:29 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Sat Jan 30 17:11:51 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 33,
+    "lang": "en",
+    "user": {
+      "description": "Follow to get Drudge Report Tweets fast. Tweeting Drudge. (RT/FAVs not endorsements)",
+      "notifications": null,
+      "followers_count": 556564,
+      "profile_link_color": "1F98C7",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "statuses_count": 39915,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/595606530172420096/yoWqLOLZ_normal.png",
+      "following": null,
+      "screen_name": "Drudge_Report_",
+      "location": null,
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": true,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Sun Jan 25 19:27:49 +0000 2015",
+      "listed_count": 622,
+      "id": 2998408203,
+      "url": "http://www.drudgereport.com",
+      "name": "Drudge Report News",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "friends_count": 74,
+      "id_str": "2998408203",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_color": "89C9FA",
+      "favourites_count": 132251,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://www.drudgereportarchive.com\" rel=\"nofollow\">DRANewsHeadlines</a>",
+    "text": "#PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+    "geo": null,
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/zf0B2977iG",
+          "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+          "display_url": "dailymail.co.uk/news/article-3\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "PEPSI"
+        },
+        {
+          "indices": [
+            15,
+            22
+          ],
+          "text": "lounge"
+        },
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "cool"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 693481764375887872,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 69,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "693481764375887872",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": null,
+    "notifications": null,
+    "followers_count": 0,
+    "profile_link_color": "2B7BB9",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+    "statuses_count": 161,
+    "lang": "en",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+    "following": null,
+    "screen_name": "ixirosunor79",
+    "location": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon Feb 01 19:15:48 +0000 2016",
+    "listed_count": 1,
+    "id": 4870118937,
+    "url": null,
+    "name": "Patricia Adams\u0430",
+    "time_zone": null,
+    "profile_background_image_url": "",
+    "friends_count": 45,
+    "id_str": "4870118937",
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "favourites_count": 5,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @Drudge_Report_: #PEPSI bar and #lounge to make soda '#cool'... https://t.co/zf0B2977iG",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          18
+        ],
+        "id": 2998408203,
+        "screen_name": "Drudge_Report_",
+        "name": "Drudge Report News",
+        "id_str": "2998408203"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/zf0B2977iG",
+        "expanded_url": "http://www.dailymail.co.uk/news/article-3423280/Pepsi-plans-open-hipster-bar-lounge-restaurant-called-Kola-House-New-York-City-make-soda-cool.html",
+        "display_url": "dailymail.co.uk/news/article-3\u2026"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          26
+        ],
+        "text": "PEPSI"
+      },
+      {
+        "indices": [
+          35,
+          42
+        ],
+        "text": "lounge"
+      },
+      {
+        "indices": [
+          57,
+          62
+        ],
+        "text": "cool"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1454359589124",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260552558886912,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260552558886912",
+  "retweeted": false
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:30 +0000 2016",
+  "retweeted_status": {
+    "truncated": false,
+    "created_at": "Mon Feb 01 20:45:44 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 10340482,
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+          "display_url": "pic.twitter.com/L6WNZ1UkDz",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 172,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 350,
+              "w": 690
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 304,
+              "w": 600
+            }
+          },
+          "source_status_id": 692758039795896320,
+          "id": 692758039502282754,
+          "url": "https://t.co/L6WNZ1UkDz",
+          "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+          "source_status_id_str": "692758039795896320",
+          "type": "photo",
+          "id_str": "692758039502282754",
+          "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+          "source_user_id_str": "10340482"
+        }
+      ]
+    },
+    "lang": "en",
+    "user": {
+      "description": "Ed., Rosa Luxemburg: Her Life and Legacy (Palgrave 2013). Author, Neoliberal Labour Governments and the Union Response (Palgrave 2015). Coeditor @NewPoliticsMag",
+      "notifications": null,
+      "followers_count": 860,
+      "profile_link_color": "DD2E44",
+      "profile_text_color": "000000",
+      "contributors_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/625336257359560704/fmc1psIE_normal.jpg",
+      "statuses_count": 23172,
+      "lang": "en",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/625336257359560704/fmc1psIE_normal.jpg",
+      "following": null,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681909914/1397715702",
+      "screen_name": "PartyOfANewType",
+      "location": "New York, NY",
+      "profile_sidebar_border_color": "000000",
+      "profile_use_background_image": false,
+      "utc_offset": -18000,
+      "geo_enabled": false,
+      "default_profile_image": false,
+      "profile_background_tile": false,
+      "verified": false,
+      "protected": false,
+      "follow_request_sent": null,
+      "default_profile": false,
+      "is_translator": false,
+      "created_at": "Mon Aug 19 00:22:13 +0000 2013",
+      "listed_count": 40,
+      "id": 1681909914,
+      "url": "http://www.newpol.org",
+      "name": "Jason Schulman",
+      "time_zone": "Eastern Time (US & Canada)",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "friends_count": 383,
+      "id_str": "1681909914",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_color": "000000",
+      "favourites_count": 5019,
+      "profile_sidebar_fill_color": "000000"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "There's some dodgy recipes in @PepsiCo's #SB50 #gamedaygrubmatchentry, but nothing as ugly as @Pepsi's deforestation https://t.co/L6WNZ1UkDz",
+    "geo": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            30,
+            38
+          ],
+          "id": 21346619,
+          "screen_name": "PepsiCo",
+          "name": "PepsiCo",
+          "id_str": "21346619"
+        },
+        {
+          "indices": [
+            94,
+            100
+          ],
+          "id": 18139619,
+          "screen_name": "pepsi",
+          "name": "Pepsi\u2122",
+          "id_str": "18139619"
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "source_user_id": 10340482,
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+          "display_url": "pic.twitter.com/L6WNZ1UkDz",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 172,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 350,
+              "w": 690
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 304,
+              "w": 600
+            }
+          },
+          "source_status_id": 692758039795896320,
+          "id": 692758039502282754,
+          "url": "https://t.co/L6WNZ1UkDz",
+          "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+          "source_status_id_str": "692758039795896320",
+          "type": "photo",
+          "id_str": "692758039502282754",
+          "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+          "source_user_id_str": "10340482"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            46
+          ],
+          "text": "SB50"
+        },
+        {
+          "indices": [
+            47,
+            69
+          ],
+          "text": "gamedaygrubmatchentry"
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "favorited": false,
+    "is_quote_status": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id_str": null,
+    "favorite_count": 0,
+    "in_reply_to_status_id": null,
+    "filter_level": "low",
+    "id": 694260365295796224,
+    "in_reply_to_user_id_str": null,
+    "retweet_count": 1,
+    "place": null,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id_str": "694260365295796224",
+    "retweeted": false
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "lang": "en",
+  "user": {
+    "description": "Cool dad",
+    "notifications": null,
+    "followers_count": 11158,
+    "profile_link_color": "DD2E44",
+    "profile_text_color": "000000",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/693576625447899140/xWrHP1cK_normal.jpg",
+    "statuses_count": 44006,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/693576625447899140/xWrHP1cK_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/348166536/1446780117",
+    "screen_name": "KenzoShibata",
+    "location": "Chicago, IL ",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "created_at": "Thu Aug 04 00:12:33 +0000 2011",
+    "listed_count": 248,
+    "id": 348166536,
+    "url": "http://kenzoshibata.com",
+    "name": "kenzo",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "friends_count": 3375,
+    "id_str": "348166536",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "000000",
+    "favourites_count": 28379,
+    "profile_sidebar_fill_color": "000000"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "RT @PartyOfANewType: There's some dodgy recipes in @PepsiCo's #SB50 #gamedaygrubmatchentry, but nothing as ugly as @Pepsi's deforestation h\u2026",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          19
+        ],
+        "id": 1681909914,
+        "screen_name": "PartyOfANewType",
+        "name": "Jason Schulman",
+        "id_str": "1681909914"
+      },
+      {
+        "indices": [
+          51,
+          59
+        ],
+        "id": 21346619,
+        "screen_name": "PepsiCo",
+        "name": "PepsiCo",
+        "id_str": "21346619"
+      },
+      {
+        "indices": [
+          115,
+          121
+        ],
+        "id": 18139619,
+        "screen_name": "pepsi",
+        "name": "Pepsi\u2122",
+        "id_str": "18139619"
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          139,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/L6WNZ1UkDz",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/L6WNZ1UkDz",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          62,
+          67
+        ],
+        "text": "SB50"
+      },
+      {
+        "indices": [
+          68,
+          90
+        ],
+        "text": "gamedaygrubmatchentry"
+      }
+    ],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id": 10340482,
+        "indices": [
+          139,
+          140
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "display_url": "pic.twitter.com/L6WNZ1UkDz",
+        "sizes": {
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 340
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 350,
+            "w": 690
+          },
+          "medium": {
+            "resize": "fit",
+            "h": 304,
+            "w": 600
+          }
+        },
+        "source_status_id": 692758039795896320,
+        "id": 692758039502282754,
+        "url": "https://t.co/L6WNZ1UkDz",
+        "media_url": "http://pbs.twimg.com/media/CZ0rxDvUYAIT9Lg.png",
+        "source_status_id_str": "692758039795896320",
+        "type": "photo",
+        "id_str": "692758039502282754",
+        "expanded_url": "http://twitter.com/RAN/status/692758039795896320/photo/1",
+        "source_user_id_str": "10340482"
+      }
+    ]
+  },
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260557059330049,
+  "in_reply_to_user_id_str": null,
+  "retweet_count": 0,
+  "place": null,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "id_str": "694260557059330049",
+  "retweeted": false,
+  "timestamp_ms": "1454359590197"
+}{
+  "truncated": false,
+  "created_at": "Mon Feb 01 20:46:41 +0000 2016",
+  "in_reply_to_screen_name": "StahmyJunior",
+  "favorite_count": 0,
+  "lang": "in",
+  "user": {
+    "description": "Consultant  of  Human Rights",
+    "notifications": null,
+    "followers_count": 776,
+    "profile_link_color": "0084B4",
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/676747210713866240/iw9hntNu_normal.jpg",
+    "statuses_count": 1143,
+    "lang": "en",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/676747210713866240/iw9hntNu_normal.jpg",
+    "following": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3246146799/1446664157",
+    "screen_name": "MropeKella",
+    "location": "Tanzania",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "utc_offset": null,
+    "geo_enabled": false,
+    "default_profile_image": false,
+    "profile_background_tile": false,
+    "verified": false,
+    "protected": false,
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "created_at": "Mon May 11 11:50:50 +0000 2015",
+    "listed_count": 1,
+    "id": 3246146799,
+    "url": null,
+    "name": "Lucas Kella",
+    "time_zone": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 640,
+    "id_str": "3246146799",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 65,
+    "profile_sidebar_fill_color": "DDEEF6"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@StahmyJunior  Tusaidie wapi tutapata  @pepsi, Matombo Morogoro zimeadimika sana.",
+  "geo": null,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "id": 350254293,
+        "screen_name": "StahmyJunior",
+        "name": "Mkulima\u2122",
+        "id_str": "350254293"
+      },
+      {
+        "indices": [
+          39,
+          45
+        ],
+        "id": 18139619,
+        "screen_name": "pepsi",
+        "name": "Pepsi\u2122",
+        "id_str": "18139619"
+      }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "contributors": null,
+  "favorited": false,
+  "is_quote_status": false,
+  "in_reply_to_user_id": 350254293,
+  "timestamp_ms": "1454359601141",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "filter_level": "low",
+  "id": 694260602961858560,
+  "in_reply_to_user_id_str": "350254293",
+  "retweet_count": 0,
+  "place": null,
+  "coordinates": null,
+  "id_str": "694260602961858560",
+  "retweeted": false
+}
